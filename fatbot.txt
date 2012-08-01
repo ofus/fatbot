@@ -1,0 +1,165 @@
+***************************
+*                         *
+* FAT BOT XP User's Guide *
+*                         *
+***************************
+
+I. Installation
+
+        (1) Go to http://www.fatbot.tk and download the latest version
+        of Fat Bot.
+
+        (2) Install Fat Bot into your cstrike directory
+        C:\Program Files\Steam\Steam Apps\[your e-mail address]\Counter-Strike\cstrike\
+
+        (3) Run Counter-Strike
+
+        (4) If Fat Bot doesn't run the next time you start cs, type the
+        following into the console:
+
+		exec autoexec.cfg
+
+II. Using Fat Bot
+
+Here is a listing of Fat Bot commands:
+
+ Actions:
+	space	    Crouch-Jump
+	tab		    Show Scores & Frames Per Second (FPS)
+	F10 - F12	Radio Menu
+	keypad /	Take a Screenshot (saved as TGA)
+	q		    Quick Pistol
+	x		    Activate Microphone
+	z		    Toggle Radar on/off
+	SHIFT + F11	Configure CS for a 56k connection
+	SHIFT + F12	Configure CS for a DSL/Cable connection
+
+ Equipment:
+	F4      Buy Defuse Kit
+	F5		Buy Hand Grenade
+	F6		Buy Flashbang
+	F7		Buy Kevlar Vest
+	F6		Buy Kevlar Helmet
+	F9		Buy Desert Eagle
+
+ Weapon Combos:
+	** When buying weapon combos, hold shift if you don't want to
+	** buy a kevlar helmet (vest only).
+
+	keypad 1   	pump shot, ammo, armor
+	keypad 2   	scout, ammo, armor
+	keypad 3   	AWP, secondary ammo, armor
+	keypad 4   	ak or m4, ammo, armor
+	keypad 5   	commando or aug, ammo, armor
+	keypad 6   	famas or galil, secondary ammo, armor
+	keypad 7   	MP5, ammo, armor
+	keypad 8   	mac 10 or TMP, ammo, armor
+	keypad 9   	auto shot, ammo, armor
+	keypad +   	UMP, ammo, armor
+
+ Communication:
+	insert  	    say pump shot ownage
+	delete  	    spray
+	home		    say "Bow down to my elite skills"
+	end	            say "I win!"
+	keypad enter	say "OMFG!! HAX!!"
+	page up   	    announce that Fat Bot XP is on/off
+	page down   	advertise for Fat Bot XP
+	mouse button3	toggle walking/running
+	F10,F11,F12     radio commands
+	
+III. Change Log
+
+ XP Service Pack 5
+        CHANGED - Fatbot url
+        CHANGED - removed references to clan tags
+
+ XP Service Pack 4
+        ADDED	- keypad 0 buys riot shield
+        CHANGED	- weapon buying commands to work with CS 1.6
+        REMOVED	- menu clearing (redundant with 1.6)
+        CHANGED	- rearranged buy keys
+        REMOVED	- usp, p228 keys
+        CHANGED	- keypad enter now says "OMFG HAX"
+        CHANGED	- DBZ to PwN
+        FIXED	- (typo) I win/" to I win
+        CHANGED - By default, weapon buying packages now buy VEST and
+                  HELM.  Holding shift when buying weapon package buys vest
+		  only.
+
+ XP Service Pack 3
+        REMOVED - quick knife
+        ADDED	- SHIFT-F3 buys defuse kit
+        ADDED	- SHIFT-F4 buys night vision
+        ADDED	- + on keypad buys UMP
+        ADDED	- X is now microphone activator
+        CHANGED - "DBZ > U" changed to "I win!"
+        CHANGED - AWP/SCOUT now buys both primary and secondary ammo
+        FIXED   - typo: fpx_max 100 is now fps_max
+        FIXED	- typo: net_graph 3 changed to net_graph 1
+        FIXED	- menu clearing is more efficient now
+
+ XP Service Pack 2
+        REMOVED 	- defuse kit buying bind
+        CHANGED - changed flashbang buy key from F2 to F4
+         	(F1 and F2 are now reserved by CS 1.5)
+        CHANGED	- Numpad 4 always buys a helmet
+
+ XP Service Pack 1
+        CHANGED - moved cfg files out of subdirectory and appended the
+        	  prefix "fatbot_" to them (i.e. fatbot\dsl.cfg is
+        	  now fatbot_dsl.cfg)
+
+ XP
+        CHANGED - Fat bot 2.1 is now known as Fat Bot XP
+ 		  (the XP stands for OWNAGE)
+        CHANGED	- By default, weapon buying packages buy vest only.  Holding
+                  shift when buying weapon package buys helmet and vest.
+        REMOVED - No more in game bind menu.  Bind list is available online at
+                  http://www.clandbz.com/fatbot or in the included fatbot.txt file
+        REMOVED - restore sound, demo recording, skip download
+        ADDED   - scripts to optimize network speed for 56k(SHIFT+F11) and for
+ 		  DSL/Cable(SHIFT+F12)
+        ADDED   - lots of tweaks for better performance and visibility
+        ADDED   - new install program for CS retail
+        ADDED   - SHIFT + F2 buys defuse kit
+
+ .54
+        FIXED 	- Load menu looks more even
+        FIXED	- a bunch of misc. errors
+
+ .53
+        CHANGED	- keypad 9 now buys P90 instead of UMP
+        CHANGED	- quickslash is now set to Z
+        ADDED	- up arrow plays a demo file
+        ADDED	- down arrow records a demo file
+        ADDED 	- x goes into AFK mode
+        ADDED 	- ' will skip a download file
+       	          (useful for wav files at connect)
+        ADDED 	- semicolon will now restore sound in game
+
+ .52
+        CHANGED	- Comm Scripts are pro [DBZ], not pro Piccolo
+        CHANEGD	- TAB now shows FPS as well as scores
+        FIXED 	- SMG buy keys work now
+        FIXED 	- Walk/Run toggle should work now without getting "stuck"
+        FIXED 	- Aug buys an Aug now
+        ADDED 	- keypad slash takes a screenshot
+
+ .51
+        FIXED 	- Comm Script Error (pump shot ownage)
+        UPDATED - Changed some comm scripts
+        UPDATED - DBZ website is now http://www.clandbz.com
+
+IV. Credits
+
+        Developers:
+        Ofus                   Creator and Head Developer
+        Mr_Viperx              Old School Developer
+        [PwN]Mr_Awesome        New School Developer
+
+        Beta Testers:
+        [DBZ]-Tien-[DBZ]
+        [PwN]Osiris
+        [PwN]Mr_Awesome
+        Mr_Viperx
