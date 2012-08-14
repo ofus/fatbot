@@ -1,27 +1,27 @@
 ***************************
 *                         *
-* FAT BOT XP User's Guide *
+*  iFatbot User's Guide   *
 *                         *
 ***************************
 
 I. Installation
 
-        (1) Go to http://www.fatbot.tk and download the latest version
-        of Fat Bot.
+        (1) Go to http://github.com/ofus/fatbot and download the latest version
+        of iFatbot.
 
-        (2) Install Fat Bot into your cstrike directory
+        (2) Install iFatbot into your cstrike directory
         C:\Program Files\Steam\Steam Apps\[your e-mail address]\Counter-Strike\cstrike\
 
         (3) Run Counter-Strike
 
-        (4) If Fat Bot doesn't run the next time you start cs, type the
+        (4) If iFatbot doesn't run the next time you start cs, type the
         following into the console:
 
 		exec autoexec.cfg
 
-II. Using Fat Bot
+II. Using iFatbot
 
-Here is a listing of Fat Bot commands:
+Here is a listing of iFatbot commands:
 
  Actions:
 	space	    Crouch-Jump
@@ -31,10 +31,8 @@ Here is a listing of Fat Bot commands:
 	q		    Quick Pistol
 	x		    Activate Microphone
 	z		    Toggle Radar on/off
-	SHIFT + F11	Configure CS for a 56k connection
-	SHIFT + F12	Configure CS for a DSL/Cable connection
 
- Equipment:
+    Equipment:
 	F4      Buy Defuse Kit
 	F5		Buy Hand Grenade
 	F6		Buy Flashbang
@@ -63,12 +61,18 @@ Here is a listing of Fat Bot commands:
 	home		    say "Bow down to my elite skills"
 	end	            say "I win!"
 	keypad enter	say "OMFG!! HAX!!"
-	page up   	    announce that Fat Bot XP is on/off
-	page down   	advertise for Fat Bot XP
+	page up   	    announce that iFatbot is on/off
+	page down   	advertise for iFatbot
 	mouse button3	toggle walking/running
 	F10,F11,F12     radio commands
 	
 III. Change Log
+
+ iFatbot
+        Counter-Strike: Global Offensive ZOMFGz!!121
+        CHANGED - the decade
+        HOST    - github!
+        MORE STUFF
 
  XP Service Pack 5
         CHANGED - Fatbot url
@@ -111,7 +115,7 @@ III. Change Log
         	  now fatbot_dsl.cfg)
 
  XP
-        CHANGED - Fat bot 2.1 is now known as Fat Bot XP
+        CHANGED - iFatbot 2.1 is now known as iFatbot
  		  (the XP stands for OWNAGE)
         CHANGED	- By default, weapon buying packages buy vest only.  Holding
                   shift when buying weapon package buys helmet and vest.
